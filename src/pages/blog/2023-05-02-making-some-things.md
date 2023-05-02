@@ -6,4 +6,4 @@ description: How to create things
 featuredpost: false
 featuredimage: /img/kings-manor-project-page-banner.jpg
 ---
-S﻿o thins is how I wanted to create this blog.
+S﻿o this is how I wanted to create this blog.
